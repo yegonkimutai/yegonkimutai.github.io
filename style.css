@@ -60,7 +60,7 @@
   font-size: 20px;
   line-height: 28px;
   margin-top: 20px;
-  width: 800px;
+  width: 50%;
   margin-left: 25%;
 }
 
@@ -337,7 +337,7 @@
 }
 
 .contact textarea {
-  width: 80%;
+  width: 78%;
   height: 150px;
   margin-top: 15px;
   border-radius: 5px;
@@ -359,7 +359,7 @@
   background: #36b37f;
   border: 1px solid #36b37f;
   border-radius: 5px;
-  margin-right: 73%;
+  margin-right: 71%;
 }
 
 .contact button:hover {
